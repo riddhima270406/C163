@@ -14,7 +14,7 @@ AFRAME.registerComponent("wire-fence", {
 
 
       //set x, y and z position
-      posX = posX + 5;
+      posX = posX + 3;
       posY = 2.5;
       posZ = posZ - 10;
 
